@@ -1,0 +1,2 @@
+# basic_excel_to_json
+基于tkinter的，仅支持单层嵌套的，简单excel转换为json的小工具，后续更新readme文件说明具体格式要求
